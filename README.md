@@ -2,6 +2,8 @@
 
 This project is a full-stack web application built with Python and the Django framework. It serves as a practical demonstration of building a system with complete CRUD (Create, Read, Update, Delete) functionality. The application allows users to manage a database of student records through a clean and simple user interface.
 
+![Homepage Screenshot](images/home page.png)
+
 ## Key Features
 
 -   **Create:** Add new students to the database via a web form.
